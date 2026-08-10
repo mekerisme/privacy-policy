@@ -51,4 +51,4 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 ## 6. Contact Us
 
 If you have any questions or suggestions regarding this Privacy Policy, please contact us:
-* **Email:** [YOUR_CONTACT_EMAIL@domain.com]
+* **Email:** [ginda3999@gmail.com]
