@@ -3,7 +3,7 @@
 **Effective Date:** August 11, 2026  
 **Last Updated:** August 11, 2026  
 
-This Privacy Policy applies to the mobile application **台鐵時刻表—火車時刻表 , 喵喵 QR Code 掃描器,MK Headset - Bluetooth headset** (hereinafter referred to as the "App"), developed and operated by **CHIEN TA LI** ("we," "us," or "our"). 
+This Privacy Policy applies to the mobile application **台鐵時刻表—火車時刻表 , 喵喵 QR Code 掃描器,MK Headset - Bluetooth headset* ,Thsrc Times ,高鐵時刻表-查詢高鐵列車狀態* (hereinafter referred to as the "App"), developed and operated by **CHIEN TA LI** ("we," "us," or "our"). 
 
 This page is used to inform users regarding our policies with the collection, use, and disclosure of personal information if anyone decides to use our App.
 
